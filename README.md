@@ -1,2 +1,2 @@
-# pandas_tutorial
-Panda Tutorials for the beginners.
+# Pandas Tutorial
+## Panda Tutorials for the beginners.
